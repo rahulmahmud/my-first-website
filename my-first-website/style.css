@@ -1,0 +1,91 @@
+body{
+    background-color: burlywood;
+   }
+   h1{
+    color: white;
+    background-color: #1d139f;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif;       
+    }  
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+img{
+    height: 250px;
+    }
+
+p{
+    color: black;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+#pen{
+    color: #7fffd4;
+    background-color: #a52a2a;
+    height: 50px;
+    font-family: fantasy;
+    font-style: initial;
+    font-size: 30px;        
+    }
+
+.pen{
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black;
+    }
+
+.sea{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.border{
+    border: 5px solid black ;
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 50px;
+    
+}
+
+.link:hover{
+    font-size: 20px;
+}
+
+.login{
+    background-color: white;
+       margin: 15% 0% 0% 40%;
+}
+
+
+.login-button{
+    margin-left: 75px;
+    font: bold;
+    background-color: #09a7dc;
+    border-radius: 20px;
+    border-width: 0px;
+    color: aliceblue;
+    height: 30px;
+    width: 100px;
+    
+}
+
+.welcome{
+    margin-left: 7.5%;
+}
+
+.input{
+    
+    height: 25px;
+    width: 250px;
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: #c9efefa8;
+}
+.forget{
+    text-decoration: none;
+}
+
